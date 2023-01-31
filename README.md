@@ -14,7 +14,7 @@ Resolução dos exercicíos (CodeForce) do conteudo de programação dinamica
 
 ## Screenshots
 1- [Stars Drawing](https://codeforces.com/problemset/problem/1015/E1)
-![screenshot1](assets/star_drawing.jpeg)
+![screenshot1](assets/stars_drawing.jpeg)
 2- [Consecutive Subsequence](https://codeforces.com/problemset/problem/977/F?csrf_token=eaa8ac824e19291fc9a96a483b810797)
 ![screenshot2](assets/consecutive_subsequence.jpeg)
 3- [Robbers' watch](https://codeforces.com/problemset/problem/685/A)
